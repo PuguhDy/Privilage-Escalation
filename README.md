@@ -87,3 +87,7 @@ Copy Fail was the motivation for starting this research. In particular, xfrm-ESP
 ## So, how do I fix my Linux?
 
 Refer to the Mitigation section above.
+
+## test results attached
+<img src="assets/testing.png" width="400" alt="tux">
+
