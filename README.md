@@ -91,3 +91,8 @@ Refer to the Mitigation section above.
 ## test results attached
 <img src="assets/testing.png" width="400" alt="tux">
 
+## Copyright
+ - https://github.com/V4bel/dirtyfrag.
+   All rights resereved.
+
+
